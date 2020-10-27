@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary2">#008577</color>
+    <color name="colorPrimaryDark2">#00574B</color>
+    <color name="colorAccent2">#D81B60</color>
+    <color name="skyBlue">#0FECFF</color>
+
+    <!--<color name="colorPrimary">#F9D4BB</color>-->
+    <!--<color name="colorPrimaryDark">#664E4C</color>-->
+    <!--<color name="colorAccent">#C1D37F</color>-->
+    <!--<color name="color2">#E2D58B</color>-->
+    <!--<color name="color3">#F0E2A3</color>-->
+
+    <color name="colorPrimary">#58a9de</color>
+    <color name="colorPrimaryDark">#467fa2</color>
+    <color name="colorAccent">#256188</color>
+    <color name="color2">#95c7e8</color>
+    <color name="color3">#58a9de</color>
+</resources>
